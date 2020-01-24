@@ -34,4 +34,14 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  background-attachment: fixed;
 }
+
+.ansonwonglogo1 {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  right: 50%;
+  height: 100px;
+  width: 100px;
+ }
